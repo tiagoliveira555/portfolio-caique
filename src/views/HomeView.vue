@@ -15,7 +15,7 @@
         <h1 class="text-lg md:text-2xl">Caique Alves</h1>
         <p class="text-center md:text-base">Gestor de tráfego para empresas e infoprodutores. Agende uma reunião para discutir como posso impulsionar o seu crescimento.</p>
         <a 
-          href="https://api.whatsapp.com/send?phone=75999948850&text=Ol%C3%A1%2C+vim+pela+bio+do+seu+instagram+e+quero+um+or%C3%A7amento+de+tr%C3%A1fego+para+meu+neg%C3%B3cio"
+          href="https://wa.me/+5575999948850?text=Gostaria%20de%20saber%20mais%20sobre%20os%20an%C3%BAncios%20online"
           target="_blank"
           class="relative cursor-pointer flex justify-center items-center w-full border-2 rounded mt-4 md:mt-6 p-3 transition-all hover:scale-105"
         >
