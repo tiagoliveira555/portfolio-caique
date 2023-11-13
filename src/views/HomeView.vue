@@ -11,7 +11,7 @@
         </div>
       </header>
       <section class="mt-5 md:mt-8 flex flex-col justify-center items-center gap-3 md:gap-5">
-        <img class="w-28 h-28 md:w-40 md:h-40 rounded-full" src="../assets/perfil_caique.jpeg" alt="Perfil">
+        <img class="w-28 h-28 md:w-40 md:h-40 rounded-full border-2 shadow-sm border-fuchsia-700" src="../assets/perfil_caique.jpeg" alt="Perfil">
         <h1 class="text-lg md:text-2xl">Caique Alves</h1>
         <p class="text-center md:text-base">Gestor de tráfego para empresas e infoprodutores. Agende uma reunião para discutir como posso impulsionar o seu crescimento.</p>
         <a 
