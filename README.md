@@ -1,46 +1,24 @@
-# portifolio-caique
+<img src="https://github.com/tiagoliveira555/coffee-delivery-laravel/blob/main/public/imgs/captura.png" alt="Logo">
 
-This template should help get you started developing with Vue 3 in Vite.
+<h1 align="center">Coffee Delivery Laravel</h1>
 
-## Recommended IDE Setup
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;
+</p>
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+<br>
 
-## Type Support for `.vue` Imports in TS
+## ✨ Tecnologias
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
+- [Laravel](https://laravel.com/)
+- [Livewire](https://livewire.laravel.com/)
+- [Alpine.js](https://alpinejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
 
-1. Disable the built-in TypeScript Extension
-    1) Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-    2) Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
+## 💻 Projeto
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+O projeto consiste em um serviço de delivery de cafés, onde os usuários podem navegar pelo catálogo, editar seus carrinhos, fornecer informações de entrega e escolher a forma de pagamento, tornando a experiência do pedido de café mais simples e conveniente.
