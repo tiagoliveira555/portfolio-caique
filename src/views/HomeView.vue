@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <main class="antialiased bg-gray-900 text-white text-sm flex flex-col w-full h-screen">
+  <main class="antialiased bg-gray-900 text-white text-sm flex flex-col w-screen min-h-screen">
     <div class="w-full mx-auto max-w-2xl mt-5 px-8">
       <header class="flex justify-end items-center">
         <div class="flex justify-center items-center bg-gray-950 rounded-full py-1 px-3 md:py-2 md:px-4 gap-1 cursor-pointer transition-all hover:scale-105">
@@ -27,7 +27,7 @@
           <p class="text-center md:text-base">Gestor de tráfego com mais de 2 anos de experiência, liderando estratégias para mais de 10 empresas. Em busca de novos parceiros de negócio para impulsionar o crescimento. Colaborei com redes de estética de renome, como Botopremium e Botoclinic. Especializado em otimização de campanhas e análise de dados, comprometido em oferecer resultados excepcionais e prontos para enfrentar novos desafios.</p>
         </div>
       </section>
-      <footer class="flex justify-between w-3/5 md:w-4/5 items-center mt-10 mx-auto text-3xl md:text-4xl">
+      <footer class="flex justify-between w-3/5 md:w-4/5 items-center my-10 mx-auto text-3xl md:text-4xl">
         <ph-rocket-launch class="text-violet-600" />
         <ph-whatsapp-logo class="text-green-700" />
         <ph-facebook-logo class="text-blue-700" />
