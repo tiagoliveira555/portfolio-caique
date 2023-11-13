@@ -1,11 +1,10 @@
-<img src="https://github.com/tiagoliveira555/coffee-delivery-laravel/blob/main/public/imgs/captura.png" alt="Logo">
+<img src="https://github.com/tiagoliveira555/portfolio-caique/blob/main/public/logo-github.png" alt="Logo">
 
-<h1 align="center">Coffee Delivery Laravel</h1>
+<h1 align="center">Portifólio Caique Alves</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -14,11 +13,10 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Laravel](https://laravel.com/)
-- [Livewire](https://livewire.laravel.com/)
-- [Alpine.js](https://alpinejs.dev/)
+- [VueJs](https://vuejs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
+- [Phosphor Icons](https://phosphoricons.com/)
 
 ## 💻 Projeto
 
-O projeto consiste em um serviço de delivery de cafés, onde os usuários podem navegar pelo catálogo, editar seus carrinhos, fornecer informações de entrega e escolher a forma de pagamento, tornando a experiência do pedido de café mais simples e conveniente.
+Este é o portfólio de um experiente Gestor de Tráfego com mais de 2 anos de experiência, liderando estratégias de marketing digital para mais de 10 empresas. Com um histórico comprovado de impulsionar o crescimento e alcançar resultados excepcionais, Caique colaborou com redes de estética de renome, incluindo Botopremium e Botoclinic.
