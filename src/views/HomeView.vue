@@ -11,13 +11,13 @@
         </div>
       </header>
       <section class="mt-5 md:mt-8 flex flex-col justify-center items-center gap-3 md:gap-5">
-        <img class="w-28 h-28 md:w-40 md:h-40 rounded-full border-2 shadow-sm border-fuchsia-700" src="../assets/perfil_caique.jpeg" alt="Perfil">
+        <img class="w-48 md:w-60 rounded-lg border-2 shadow-sm border-fuchsia-700" src="../assets/perfil.jpeg" alt="Perfil">
         <h1 class="text-lg md:text-2xl">Caique Alves</h1>
         <p class="text-center md:text-base">Gestor de tráfego para empresas e infoprodutores. Agende uma reunião para discutir como posso impulsionar o seu crescimento.</p>
         <a 
           href="https://wa.me/+5575999948850?text=Gostaria%20de%20saber%20mais%20sobre%20os%20an%C3%BAncios%20online"
           target="_blank"
-          class="relative cursor-pointer flex justify-center items-center w-full border-2 rounded mt-4 md:mt-6 p-3 transition-all hover:scale-105"
+          class="relative cursor-pointer shadow-sm flex justify-center items-center w-full border-2 rounded mt-4 md:mt-6 p-3 transition-all hover:scale-105"
         >
           <ph-whatsapp-logo class="absolute left-2 top-[6px] text-green-700" :size="32" />
           <span class="md:text-base text-green-700">Orçamento Tráfego Pago</span>
