@@ -11,7 +11,7 @@
         </div>
       </header>
       <section class="mt-5 md:mt-8 flex flex-col justify-center items-center gap-3 md:gap-5">
-        <img class="w-36 md:w-48 rounded-full border-2 shadow-sm border-fuchsia-700" src="../assets/perfil.jpeg" alt="Perfil">
+        <img class="w-32 md:w-44 rounded-full border-2 shadow-sm border-fuchsia-700" src="../assets/perfil.jpeg" alt="Perfil">
         <h1 class="text-lg md:text-2xl">Caique Alves</h1>
         <p class="text-center md:text-base">Gestor de tráfego para empresas e infoprodutores. Agende uma reunião para discutir como posso impulsionar o seu crescimento.</p>
         <a 
@@ -24,7 +24,7 @@
         </a>
         <div class="flex flex-col justify-center items-center mt-6 gap-4">
           <h2 class="text-lg tracking-wider">Sobre mim</h2>
-          <p class="text-center md:text-base">Gestor de tráfego com mais de 2 anos de experiência, liderando estratégias para mais de 10 empresas. Em busca de novos parceiros de negócio para impulsionar o crescimento. Colaborei com redes de estética de renome, como Botopremium e Botoclinic. Especializado em otimização de campanhas e análise de dados, comprometido em oferecer resultados excepcionais e prontos para enfrentar novos desafios.</p>
+          <p class="text-center md:text-base">Gestor de tráfego com mais de 2 anos de experiência, liderando estratégias para mais de 20 empresas. Em busca de novos parceiros de negócio para impulsionar o crescimento. Colaborei com redes de estética de renome, como Botopremium e Botoclinic. Especializado em otimização de campanhas e análise de dados, comprometido em oferecer resultados excepcionais e prontos para enfrentar novos desafios.</p>
         </div>
       </section>
       <footer class="flex justify-between w-3/5 md:w-4/5 items-center my-10 mx-auto text-3xl md:text-4xl">
